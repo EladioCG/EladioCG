@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
   <img src="https://img.shields.io/badge/PHP-0BACD9?style=for-the-badge&logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-99E4C3?style=for-the-badge&logo=c%2B%2B&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-E63B2E?style=for-the-badge&logo=SQL&logoColor=black"> 
-    
+  <img src="https://img.shields.io/badge/SQL-E63B2E?style=for-the-badge&logo=SQL&logoColor=black">
+  <img src="https://img.shields.io/badge/NODE.JS-01FS46?style=for-the-badge&logo=node.js&logoColor=black">   
 </span>
 
 <h4> 🗃 &nbsp;Databases </h4>
@@ -45,5 +45,4 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/LINUX-031F07?style=for-the-badge&logo=LINUX&logoColor=WHITE">
   <img src="https://img.shields.io/badge/BOOTSTRAP-4026DB?style=for-the-badge&logo=bootstrap&logoColor=black">
-  <img src="https://img.shields.io/badge/NODE.JS-01FS46?style=for-the-badge&logo=node.js&logoColor=black">
 </span>
