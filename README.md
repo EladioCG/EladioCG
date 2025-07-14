@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/PHP-0BACD9?style=for-the-badge&logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-99E4C3?style=for-the-badge&logo=c%2B%2B&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-E63B2E?style=for-the-badge&logo=SQL&logoColor=black">
-  <img src="https://img.shields.io/badge/NODE.JS-01FS46?style=for-the-badge&logo=node.js&logoColor=black">   
+  <img src="https://img.shields.io/badge/NODE.JS-01FS46?style=for-the-badge&logo=node.js&logoColor=black">
+  <img src="https://img.shields.io/badge/FLUTTER-F7F7F7?style=for-the-badge&logo=flutter&logoColor=blue">
 </span>
 
 <h4> 🗃 &nbsp;Databases </h4>
