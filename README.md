@@ -8,7 +8,7 @@
 <br><br>
 
 * 🌱 I’m currently learning
-  - Node.jd
+  - Node.js
   - React 
 * 👯 I’m looking forward to collaborate on open source projects.
 - :boom: I am currently open to a new "job opportunity".
