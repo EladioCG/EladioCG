@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/SQL-E63B2E?style=for-the-badge&logo=SQL&logoColor=black">
   <img src="https://img.shields.io/badge/NODE.JS-01FS46?style=for-the-badge&logo=node.js&logoColor=black">
   <img src="https://img.shields.io/badge/FLUTTER-F7F7F7?style=for-the-badge&logo=flutter&logoColor=blue">
+  <img src="https://img.shields.io/badge/REACT%20JS-F7F7F7?style=for-the-badge&logo=react&logoColor=00D1F6">
 </span>
 
 <h4> 🗃 &nbsp;Databases </h4>
